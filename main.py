@@ -1,6 +1,6 @@
 import pandas as pd
 
-print ("Hello world")
+print ("Hello wld")
 
 melbourne_file_path = '/Volumes/Feina/ML/melb_data.csv'
 
